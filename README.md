@@ -36,10 +36,12 @@ Feel free to explore my repositories and projects. I’m open to collaborations 
 <br>
 <p align="center">
   <a href="https://github.com/Hirusha-Nikson">
-    <img src="https://skillicons.dev/icons?i=py,dotnet,cs,react,nextjs,threejs,nodejs,express,js,ts,tailwind,html,css,mongodb,mysql,postman,github,docker,figma,vscode,visualstudio&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,dotnet,cs,react,nextjs,threejs,nodejs,express,js,ts,tailwind,html,css,mongodb,mysql,postman,github,docker,aws,figma,vscode,visualstudio&perline=15" />
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheesha-tharangana&show_icons=true&locale=en&layout=compact" alt="maheesha-tharangana" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheesha-tharangana&show_icons=true&locale=en" alt="maheesha-tharangana" /></p>
 
 
 ##
