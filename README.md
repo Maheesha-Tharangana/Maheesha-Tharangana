@@ -35,7 +35,7 @@ Feel free to explore my repositories and projects. I’m open to collaborations 
 
 <br>
 <p align="center">
-  <a href="https://github.com/Hirusha-Nikson">
+  <a href="https://github.com/Maheesha-Tharangana">
     <img src="https://skillicons.dev/icons?i=py,dotnet,cs,react,nextjs,threejs,nodejs,express,js,ts,tailwind,html,css,mongodb,mysql,postman,github,docker,aws,figma,vscode,visualstudio&perline=15" />
   </a>
 </p>
